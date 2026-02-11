@@ -1,7 +1,7 @@
 ![](https://res.cloudinary.com/dejak9uz1/image/upload/v1732915010/result_dxqbrx.gif)
 # 💫 About Me:
 
-🔭 I’m currently doing my Master's in Computer Science at Dalhousie University.<br>👯 I’m looking to collaborate on Applied ML and Backend Projects.<br>🌱 I’m currently learning DevOps.<br>⚡ Fun fact: I love cooking.
+🔭 I’m currently doing my Master's in Computer Science at Dalhousie University.<br>👯 I’m looking to collaborate on Applied ML and Backend Projects.<br>🌱 I’m currently mastering NLP with DeepLearning.<br>⚡ Fun fact: I love cooking, playing musical instruments, and extreme sports.
 
 ## 🌐 Socials:
 
