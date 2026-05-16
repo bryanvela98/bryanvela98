@@ -19,7 +19,7 @@
 - 🔭 Open to collaborate on **Applied ML** and **Backend Engineering** projects
 - 🌊 Adrenaline junkie — extreme sports are my reset button
 - 🎸 Multi-instrumentalist & passionate home chef
-- 📬 Reach me at **bryanvela98@hotmail.com**
+- 📬 Reach me at **bryan.vela.n@gmail.com**
 
 ---
 
