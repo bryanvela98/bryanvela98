@@ -89,9 +89,11 @@
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=bryanvela98&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
+  
 ![](https://res.cloudinary.com/dejak9uz1/image/upload/v1732915042/result_1_ypscjj.gif)
 
+![Profile Views](https://komarev.com/ghpvc/?username=bryanvela98&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer)
+
 </div>
