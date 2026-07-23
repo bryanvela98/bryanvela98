@@ -17,8 +17,8 @@
 - 🎓 Pursuing my **Master's in Computer Science** at **Dalhousie University**
 - 🤖 Mastering ML(**NLP & Deep Learning**, **Recommender Systems**)
 - 🔭 Open to collaborate on **Applied ML** and **Backend Engineering** projects
-- 🌊 Adrenaline junkie — extreme sports are my reset button
-- 🎸 Multi-instrumentalist & passionate home chef
+- 🌊 Adrenaline junkie, extreme sports are my reset button
+- 🎸 Love playing the drums and the guitar & passionate home chef
 - 📬 Reach me at **bryan.vela.n@gmail.com**
 
 ---
