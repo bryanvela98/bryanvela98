@@ -15,7 +15,7 @@
 > *Building intelligent systems by day, shredding mountains and cooking up storms by night.*
 
 - 🎓 Pursuing my **Master's in Computer Science** at **Dalhousie University**
-- 🤖 Mastering **NLP & Deep Learning** — because language is the hardest problem
+- 🤖 Mastering **NLP & Deep Learning**, **Recommender Systems**,
 - 🔭 Open to collaborate on **Applied ML** and **Backend Engineering** projects
 - 🌊 Adrenaline junkie — extreme sports are my reset button
 - 🎸 Multi-instrumentalist & passionate home chef
