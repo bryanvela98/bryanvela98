@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100=58a6ff&height=200&section=header&text=Bryan%20Edinson%20Vela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20Student%20%7C%20ML/AI%20Enthusiast%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Master's+in+CS+%40+Dalhousie+University;ML+%7C+NLP+%7C+Backend+Engineering;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Master's+in+CS+%40+Dalhousie+University;ML+%7C+AI+%7C+Backend+Engineering;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![](https://res.cloudinary.com/dejak9uz1/image/upload/v1732915010/result_dxqbrx.gif)
 
